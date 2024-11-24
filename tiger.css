@@ -1,0 +1,103 @@
+details#details{
+    color: rgb(0, 0, 0); background-color: rgb(30, 181, 241);
+    font-family: Moo Lah Lah , cursive;
+}
+span#tiger{
+    
+    color: rgba(90, 0, 126, 0.966);
+    font-family:'Tourney', cursive;
+    font-size: 70px;
+    border-bottom: 4px solid rgb(155, 108, 108);
+    border-bottom-left-radius: 24px;    
+    border-width: 8px;
+    padding: 4px;
+
+}
+h1#peacock{
+    color: rgb(0, 116, 0); 
+    font-family:'Tourney', cursive;
+    font-size: 64px;
+}
+p{
+    font-family: 'Caveat', cursive;
+}
+#h1tricolor{
+    font-family: 'Tourney' , Arial;
+    color: rgb(223, 47, 208);
+    font-size: 74px;
+    border-bottom: solid rgb(37, 0, 247) 4px;
+    border-bottom-left-radius: 24px ;
+    border-width: 7px;
+    padding: 3px;
+}
+ul{
+    line-height: 45px;
+    font-size: 31px;
+}
+p{
+    line-height: 40px;
+    font-size: 31px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#ppeacock{
+    color: #5d0b6e;
+}
+span#peacockheading{
+    border-bottom: solid blue ;
+    border-bottom-left-radius: 24px ;
+    border-width: 8px;
+
+}
+body{
+    background-image: url(tigerbackround.jpg);
+    background-repeat: no-repeat;
+    background-size: 1354px 7394px;
+}
+a.tiger{
+    color: rgb(47, 0, 255);
+    border: solid rgb(47, 0, 255) 1px;
+    margin:20px;
+    font-size: 30px;
+}
+form.form{
+    color: rgb(138, 0, 0);
+    font-style: italic;
+    font-size: 38px;
+}
+li.active{
+    color: rgb(255, 0, 0);
+}
+strong#arnav{
+    font-size: 34px;
+    color: rgb(109, 2, 151);
+    border-bottom: solid rgb(251, 255, 0) 3px;
+}
+.hr{
+    border: solid black 4px;
+}
+table#table{
+    border: solid black 3px;
+    padding: 34px;
+    font-size: 34px;
+}
+.button{
+    background-color: hsl(197, 71%, 73%);
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    margin: 25px;
+    font-size: 25px;
+    border:solid hsl(258, 88%, 38%) ;
+    border-radius: 14px;
+}
+button:hover{
+    background-color: gold;
+    
+}
+#submitnow{
+    color: rgb(238, 255, 0);
+    padding: 10px;
+    border-radius: 34px;
+    background-color: rgb(4, 0, 255);
+}
